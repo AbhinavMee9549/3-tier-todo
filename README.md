@@ -2,11 +2,6 @@
 - Basic knowledge of Docker, and AWS services.
 - An AWS account with necessary permissions.
 
-## Challenge Steps
-- [Application Code](#application-code)
-- [Kubernetes Manifests Files](#kubernetes-manifests-files)
-- [Project Details](#project-details)
-
 ## Application Code
 The `Application-Code` directory contains the source code for the Three-Tier Web Application. Dive into this directory to explore the frontend and backend implementations.
 
